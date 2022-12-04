@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=my_Cmake)](https://github.com/book111kr/my_Cmake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=deep_Learning)](https://github.com/book111kr/deep_Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=ROS_)](https://github.com/book111kr/ROS_)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=open_CV)](https://github.com/book111kr/open_CV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=machine_learning)](https://github.com/book111kr/machine_learning)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=book111kr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=book111kr)](https://github.com/anuraghazra/github-readme-stats)
