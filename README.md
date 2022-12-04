@@ -26,14 +26,3 @@ Stack & Tool
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=book111kr&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=book111kr)](https://github.com/book111kr/github-readme-stats)
-
-
-
-## Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=my_Cmake)](https://github.com/book111kr/my_Cmake)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=deep_Learning)](https://github.com/book111kr/deep_Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=ROS_)](https://github.com/book111kr/ROS_)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=machine_Learning)](https://github.com/book111kr/machine_Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=book111kr&repo=Open_CV)](https://github.com/book111kr/Open_CV)
-
-
